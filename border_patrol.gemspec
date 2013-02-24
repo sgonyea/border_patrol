@@ -4,7 +4,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require 'border_patrol/version'
 
 Gem::Specification.new do |s|
-  s.name = "border_patrol"
+  s.name = "border_patrol-sgonyea"
   s.version = BorderPatrol::VERSION
   s.authors = ["Zach Brock", "Matt Wilson"]
   s.email = "eng@squareup.com"
